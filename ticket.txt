@@ -1,0 +1,21 @@
+=========================================
+            RESERVATION TICKET
+=========================================
+
+Bus No      : 1
+Route       : DELHI → JAIPUR
+Travel Date : 25-02-2026
+
+Departure   : 08:30
+Arrival     : 13:30:00
+
+Seat No     : 0
+Passenger   : JENI
+Gender      : F
+Age         : 25
+
+Fare        : Rs.600
+
+=========================================
+      BOOKING CONFIRMED SUCCESSFULLY
+=========================================
